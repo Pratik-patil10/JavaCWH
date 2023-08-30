@@ -34,7 +34,7 @@ public class CBSE {
         }else if (percentage<=distctn && percentage>=fail){
             System.out.println("Congratulation to! "+studentName +" he got " + percentage + "% Marks this year!");
         }else {
-            System.out.println("Ohho :(  "+studentName + "got " + percentage + "% Mark & he is failed this year!");
+            System.out.println("Ohho :(  "+studentName + " got " + percentage + "% Mark & he is failed this year!");
         }
     }
 }
